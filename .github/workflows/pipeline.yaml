@@ -10,7 +10,7 @@ on:
       -Chapter15/**
       -github/workflows/pipeline.yaml
   # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+#   workflow_dispatch:
 # Env to set reusable Variables
 env:
   ACRNAME: skdhandsonakspipeline
